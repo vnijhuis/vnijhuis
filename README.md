@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=thavini&hide_title=true&hide_border=true&langs_count=5)
 
+[![Thavini's github stats](https://github-readme-stats.vercel.app/api?username=thavini)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
