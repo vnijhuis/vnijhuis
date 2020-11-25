@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
+[![thavin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thavini)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=thavini&hide_title=true&hide_border=true&langs_count=5)
 
-[![Thavini's github stats](https://github-readme-stats.vercel.app/api?username=thavini)](https://github.com/anuraghazra/github-readme-stats)
+[![thavini's github stats](https://github-readme-stats.vercel.app/api?username=thavini&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📺 Latest YouTube Videos
 
