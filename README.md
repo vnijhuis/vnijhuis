@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Working from home!
+- 🏡 Working from home!
 - 🔭 I’m currently working on my personal portfolio website
 - 🌱 I’m currently following aws certified solutions architect course
 <!--
