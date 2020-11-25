@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my personal portfolio website
+- 🌱 I’m currently following aws certified solutions architect course
 <!--
 **thavini/thavini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 ### 📺 Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
