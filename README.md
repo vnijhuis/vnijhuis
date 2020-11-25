@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=thavini&hide_title=true&hide_border=true&langs_count=5)
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
