@@ -25,4 +25,9 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [De nieuwe afsprong bij de spartelvijver #insta360x4 #mtb #insta360 #x4 #sibculo](https://www.youtube.com/watch?v=F8ee_UGLN5k)
+- [Hernieuwde vlonder op Sibculo. Iedereen moet hier nu langs #insta360x4 #insta360 #mtb #x4 #sibculo](https://www.youtube.com/watch?v=nxK6xf6xbZo)
+- [Dit kom je tegen na halloween #insta360x4 #mtb #insta360 #x4 #sibculo #halloween #halloween2024](https://www.youtube.com/watch?v=zgih8JmaqxI)
+- [De vernieuwde vlonders en rockgarden van MTB rondje Sibculo #insta360x4 #insta360 #mtb #x4 #sibculo](https://www.youtube.com/watch?v=BaO8f0O0Gug)
+- [Het picknick bankje van rondje Sibculo. #insta360x4 #insta360 #mtb #x4 #sibculo](https://www.youtube.com/watch?v=_3xnZ1AienA)
 <!-- YOUTUBE:END -->
