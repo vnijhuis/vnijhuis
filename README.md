@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Lekker tochtje op de route Hellendoorn #insta360 #mtb #insta360x4 #x4 #mountainbike #trekbicycles](https://www.youtube.com/watch?v=mYnIlzGOvhA)
 - [MTB Lusje Bij Avonturenpark Hellendoorn](https://www.youtube.com/watch?v=R3Y_vhw-Exk)
 - [Mooie lijn in Hellendoorn #mtb #insta360 #insta360x4 #x4 #mountainbike #trekbicycles](https://www.youtube.com/watch?v=1LyTORz80Ng)
 - [Afdaling Hellendoorn za 12 april](https://www.youtube.com/watch?v=gJL9BGWL9mw)
 - [De jaarlijkse Ballentocht met de WCT Vriezenveen [2025]](https://www.youtube.com/watch?v=hfUpeScmIqM)
-- [De nieuwe afsprong bij de spartelvijver #insta360x4 #mtb #insta360 #x4 #sibculo](https://www.youtube.com/watch?v=F8ee_UGLN5k)
 <!-- YOUTUBE:END -->
