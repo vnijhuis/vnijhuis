@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - [Achtbaan Mine Train In Attractiepark Slagharen](https://www.youtube.com/shorts/ZIUbwwjD6Sk)
 - [Lekker tochtje op de route Hellendoorn #insta360 #mtb #insta360x4 #x4 #mountainbike #trekbicycles](https://www.youtube.com/shorts/mYnIlzGOvhA)
 - [MTB Lusje Bij Avonturenpark Hellendoorn](https://www.youtube.com/watch?v=R3Y_vhw-Exk)
-- [Mooie lijn in Hellendoorn #mtb #insta360 #insta360x4 #x4 #mountainbike #trekbicycles](https://www.youtube.com/watch?v=1LyTORz80Ng)
+- [Mooie lijn in Hellendoorn #mtb #insta360 #insta360x4 #x4 #mountainbike #trekbicycles](https://www.youtube.com/shorts/1LyTORz80Ng)
 - [Afdaling Hellendoorn za 12 april](https://www.youtube.com/watch?v=gJL9BGWL9mw)
 <!-- YOUTUBE:END -->
